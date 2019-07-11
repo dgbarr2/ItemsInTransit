@@ -1,0 +1,21 @@
+.container > .contentContainer > .contentContainerBackgroundRect {
+    /* fill: rgb(35, 4, 65);*/
+    fill: #29b6f6;
+  }
+  
+  .container > .contentContainer .xAxis text {
+    font-size: 10px;
+  }
+  
+  .container > .contentContainer .line path {
+    fill: transparent;
+    stroke: #29b6f6;
+    stroke-width: 2.5;
+  }
+  
+  .container > .contentContainer .scatter circle {
+    fill: #5c6bc0;
+    stroke: #fafafa;
+    stroke-width: 2;
+  }
+  
